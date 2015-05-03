@@ -12,7 +12,7 @@ author website:
  Automatically send reports to TWB for translation
 
 == Installation ==
-1. Copy the entire /UshahidiTWBPlugin/ directory into your /plugins/ directory.
+1. Copy the entire /twb/ directory into your /plugins/ directory.
 2. Activate the plugin.
 3. Click on the [settings] link to set your TWB API key
 
